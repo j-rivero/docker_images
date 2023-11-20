@@ -2,6 +2,7 @@
 # ROS Dockerfolder manifest
 ---
 defaults:
+    # force CI
 
     default: &DEFAULT_ROS1
         templates:
